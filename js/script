@@ -1,0 +1,13 @@
+<script>
+
+$(".min").click(function(){
+    $(".messagewrapper").slideToggle();
+});
+    
+    
+    
+$(".close").click(function(){
+    $(".chatarea").hide();
+});
+
+</script>
